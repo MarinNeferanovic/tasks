@@ -1,0 +1,152 @@
+Zadatak 1.
+
+PS C:\Users\Admin\Desktop\Prog> 23
+23
+PS C:\Users\Admin\Desktop\Prog> 23.
+23
+PS C:\Users\Admin\Desktop\Prog> 1000000000000000
+1000000000000000
+PS C:\Users\Admin\Desktop\Prog> 1000000000000000.
+1E+15
+PS C:\Users\Admin\Desktop\Prog> 10000000000000000
+10000000000000000
+PS C:\Users\Admin\Desktop\Prog> 10000000000000000
+10000000000000000
+PS C:\Users\Admin\Desktop\Prog> - 0.0001
+-0,0001
+PS C:\Users\Admin\Desktop\Prog> - 0.00001
+-1E-05
+PS C:\Users\Admin\Desktop\Prog> 5e10
+50000000000
+PS C:\Users\Admin\Desktop\Prog> 2.234e5
+223400
+PS C:\Users\Admin\Desktop\Prog> -1e4
+-10000
+PS C:\Users\Admin\Desktop\Prog> -1e-4
+-0,0001
+
+Zadatak 2.
+
+PS C:\Users\Admin\Desktop\Prog> 35+11
+46
+PS C:\Users\Admin\Desktop\Prog> 35-11
+24
+PS C:\Users\Admin\Desktop\Prog> 35%11
+2
+PS C:\Users\Admin\Desktop\Prog> 35//11
+# bio sam u powershellu, pa je izbacio error, nakon upisa 'python' i pokretanja iste komande dobivam dobar rezultat
+3
+ 
+PS C:\Users\Admin\Desktop\Prog> 35/11
+3,18181818181818
+
+Zadatak 3.
+
+>>> 987654 // 123
+8029
+>>> 987654 % 123
+87
+>>> 102345 // 987
+103
+>>> 102345 % 987
+684
+
+zadatak 4. 
+
+>>> 'Prvi izraz'
+'Prvi izraz'
+>>> “Drugi izraz“
+  File "<python-input-6>", line 1
+    “Drugi izraz“
+    ^
+SyntaxError: invalid character '“' (U+201C)
+>>> 'Treći “izraz“'
+'Treći “izraz“'
+>>> “Četvrti 'izraz'“
+  File "<python-input-8>", line 1
+    “Četvrti 'izraz'“
+    ^
+SyntaxError: invalid character '“' (U+201C)
+>>> “peti“ 'izraz'
+  File "<python-input-9>", line 1
+    “peti“ 'izraz'
+    ^
+SyntaxError: invalid character '“' (U+201C)
+
+zadatak 5.
+
+>>> print(1)
+1
+>>> print(2)
+2
+>>> print(3)
+3
+>>> print(4)
+4
+>>> print(5)
+5
+>>> print(6)
+6
+>>> print(7)
+7
+>>> print("8")
+8
+>>> print(9)
+9
+>>> print(10)
+10
+
+zadatak 6.
+
+>>> 10*'*'
+'**********'
+>>> 3*'LAV'
+'LAVLAVLAV'
+>>> 4*'Četiri'
+'ČetiriČetiriČetiriČetiri'
+>>> 5*'123'
+'123123123123123'
+>>> 5*123
+615
+
+zad 7.
+
+>>> print('Voće \n \n i \n \n povrće')
+Voće 
+ 
+ i 
+ 
+ povrće
+>>> print(4*'MIR \t rad ')
+MIR      rad MIR         rad MIR         rad MIR         rad 
+>>> print('Voće \t \t i \t \t povrće')
+Voće             i               povrće 
+>>> print(6*'Volimo učiti.\n')
+Volimo učiti.
+Volimo učiti.
+Volimo učiti.
+Volimo učiti.
+Volimo učiti.
+Volimo učiti.
+
+>>> print(4*'MIR', '\t', 6*'rad')
+MIRMIRMIRMIR     radradradradradrad
+>>> print(4*'MIR \t rad \n')
+MIR      rad 
+MIR      rad 
+MIR      rad 
+MIR      rad 
+
+Zad 8.
+
+>>> print("crven\n     bijeli\n          plavi\ncrven\n     bijeli\n       \
+   plavi")
+crven
+     bijeli
+          plavi
+crven
+     bijeli
+          plavi
+
+
+Marin Neferanović 1.11.2026 18:39
